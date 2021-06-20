@@ -1,5 +1,6 @@
 # Prime_E AngleMod Case
 ![cover](img/cover.png)
+![angle](img/angle.jpg)
 
 Angled case design for the Prime_E keyboard. Includes two sets of files:
 
